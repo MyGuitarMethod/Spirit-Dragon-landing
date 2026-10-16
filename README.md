@@ -4,9 +4,11 @@ Static marketing website for Spirit Dragon by MinnyMedia. Published separately f
 
 Public URL: https://myguitarmethod.github.io/Spirit-Dragon-landing/
 
-## Launch preparation
+## Live Google Play listing
 
-“Available on Google Play” is launch-ready wording requested by the developer. A public Store listing was not accessible during preparation. No download button or placeholder Store URL is included. Add the developer-supplied, verified public listing at launch.
+Spirit Dragon is publicly available on Google Play: https://play.google.com/store/apps/details?id=com.minnymedia.spiritdragon
+
+The developer supplied this live listing on 16 October 2026. Its public page was verified as Spirit Dragon by MinnyMedia with an Install button. The hero download button and footer link both lead directly to this listing.
 
 ## Content and assets
 
