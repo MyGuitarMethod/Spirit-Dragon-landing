@@ -12,11 +12,13 @@ The developer supplied this live listing on 16 October 2026. Its public page was
 
 ## Content and assets
 
+- Trailer: https://youtu.be/pGIOmfezTPs (Spirit Dragon Trailer, supplied by the developer). A responsive YouTube privacy-enhanced iframe is embedded directly in the page, with inline playback, fullscreen controls, lazy loading and no autoplay. The hero's Watch the trailer link scrolls to that player; it does not send visitors to YouTube. YouTube's own player may still show its standard attribution and optional YouTube links.
+
 - Features checked against the Android game's current source: Easy/Normal, six dragons, four power-ups, score progression, 38 achievements, four leaderboard categories and Ancient Rites.
 - Images are optimized exports of original Spirit Dragon branding, dragon portraits and the six official mobile Store screenshot panels. Gameplay panels retain their promotional captions; older screenshot UI may differ from the latest release. They are not newly generated gameplay mockups.
 - Support: ruanminny88@gmail.com.
 - Privacy policy: linked to the existing public policy used by the game. The policy is maintained separately; this task did not rewrite it.
-- No accounts, analytics, embedded third-party scripts, cookies or contact forms are added by this landing page. Hosting remains subject to GitHub's policies.
+- No first-party accounts, analytics, cookies or contact forms are added by this landing page. The trailer uses YouTube's privacy-enhanced embedded player at youtube-nocookie.com; loading/interacting with that player contacts YouTube and is subject to Google's privacy policies. Privacy-enhanced mode is not a promise of zero third-party data processing. Hosting remains subject to GitHub's policies.
 
 ## Maintenance
 
